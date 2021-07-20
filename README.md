@@ -5,7 +5,7 @@ Add the following to above exercise using TS
 
 2. Make the user CRUD using generic. 
 
-3. Make a date time formatter decorator. Use the decorator to format date time fields.\
+3. Make a date time formatter decorator. Use the decorator to format date time fields.
 
  
 
